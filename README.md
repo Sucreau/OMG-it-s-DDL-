@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/130lq0XR3qrVTyje8-wX0Q7
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# 注意：来自作者本人的特别说明
+
+本来我选择了一个非常适合的BGM作为游戏中的背景音乐，但由于多次修改一直没有可行的办法实现程序自动播放我上传好的BGM，无奈出此下策。
